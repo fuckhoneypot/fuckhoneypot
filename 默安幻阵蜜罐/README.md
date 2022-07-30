@@ -8,10 +8,11 @@ body="/static/video.b1f7b70b.mp4"
 ```
 iconhash="9fd6f0e56f12adfc2a4da2f6002fea7a"
 title="然之协同"
-body="http://api.ranzhico.com/"
+body=">v.ignoreNotice"
 ```
 然之协同OA蜜罐加载js特征：
 ```
+<script src='https://api.zdoo.com/updater-latest-biz5.7.4.html?v=biz5.7.4' type='text/javascript'></script>
 <script src='http://api.ranzhico.com/updater-latest-pro2.2.2.html?v=pro2.2.2' type='text/javascript'></script>
 <script src='http://api.ranzhico.com/updater-latest-3.7.html?v=3.7' type='text/javascript'></script>
 <script src='http://api.ranzhi.org/updater-latest-5.2.html?v=5.2' type='text/javascript'></script>
