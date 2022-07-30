@@ -35,6 +35,8 @@ phpMyAdmin蜜罐获取jsonp特征：
 <iframe src="UHh8VFXLzDMKall（随机）/index.html" width="0" height="0"></iframe>
 <script src="./UHh8VFXLzDMKall（随机）/jquery.min.js"></script>
 <script src="UHh8VFXLzDMKall（随机）/index.js"></script>
+https://xxx/UHh8VFXLzDMKall（随机）/static.js
+https://xxx/UHh8VFXLzDMKall（随机）/trace_type?api=1
 
 ```
 
