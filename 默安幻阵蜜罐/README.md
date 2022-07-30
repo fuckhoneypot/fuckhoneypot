@@ -4,7 +4,7 @@ iconhash="a274b071560a7f32cba1cbc4d9e014b9"
 title="幻阵"
 body="/static/video.b1f7b70b.mp4"
 ```
-然之协同OA蜜罐特征：
+然之协同OA蜜罐模板特征：
 ```
 iconhash="9fd6f0e56f12adfc2a4da2f6002fea7a"
 title="然之协同"
@@ -23,3 +23,28 @@ ranzhico.com域名正在出售
 api.ranzhi.org跳转api.zdoo.com
 
 目前在用：https://api.zdoo.com/user-deny-index-index.html
+
+phpMyAdmin蜜罐模板特征：
+```
+app="phpMyAdmin" && body=="fromCharCode"
+app="phpMyAdmin" && body=="iframe"
+```
+
+phpMyAdmin蜜罐获取jsonp特征：
+```
+<iframe src="UHh8VFXLzDMKall（随机）/index.html" width="0" height="0"></iframe>
+<script src="./UHh8VFXLzDMKall（随机）/jquery.min.js"></script>
+<script src="UHh8VFXLzDMKall（随机）/index.js"></script>
+
+```
+
+Tomcat蜜罐获取jsonp特征：
+```
+<iframe src="P7FydZ4kjata（随机）/index.html" height="0" width="0"></iframe>
+<script src="./P7FydZ4kjata（随机）/jquery.min.js"></script>
+<script src="P7FydZ4kjata（随机）/index.js"></script>
+```
+
+其他模板特征：
+
+默安幻阵蜜罐最快捷有效的识别方式就是查看源代码是否有直接加载的加密js代码或加载js文件中是加密js代码以及jsonp获取是通过iframe嵌入。
