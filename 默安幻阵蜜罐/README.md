@@ -22,4 +22,4 @@ ranzhico.com域名正在出售
 
 api.ranzhi.org跳转api.zdoo.com
 
-目前在用:https://api.zdoo.com/user-deny-index-index.html
+目前在用：https://api.zdoo.com/user-deny-index-index.html
