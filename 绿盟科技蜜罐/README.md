@@ -10,8 +10,9 @@
 GPON Home Gateway
 BIG-IP®- Redirect
 CMS Web Viewer
+新版SSLVPN客户端配置说明
 ```
-源代码中很明显的一个注释ip特征：
+源代码中很明显的一个注释ip特征（属于噪音）：
 ```
 172.104.73.17
 ```
@@ -19,6 +20,7 @@ jsonp特征：
 ```
 https://data.sloss.xyz/cloud.js?access=5oCd5peg6YKq
 https://data.sloss.xyz/jquery.js
+https://data.sloss.xyz/get_code.js
 
 https://101.42.156.72/5Ly85piv5pWF5Lq65p2l
 https://101.42.156.72/static/login-obfuscated.js
@@ -34,6 +36,7 @@ POST https://upload.sloss.xyz/5piv6Iqx6Ze06Iie
 源代码加载js特征：
 ```
 <script src="https://data.sloss.xyz/cloud.js?access=5oCd5peg6YKq"></script>
+<script src="https://data.sloss.xyz/get_code.js?access=nsfocus&amp;module=z&amp;browser=/bt&amp;other=/other&amp;tag=openvpn&amp;remark=[]"></script>
 ```
 jsonp接口：
 ```
