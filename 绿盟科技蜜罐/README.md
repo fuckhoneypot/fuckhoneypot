@@ -36,6 +36,7 @@ POST https://upload.sloss.xyz/5piv6Iqx6Ze06Iie
 源代码加载js特征：
 ```
 <script src="https://data.sloss.xyz/cloud.js?access=5oCd5peg6YKq"></script>
+<script src="https://data.sloss.xyz/get_code.js?access=nsfocus&amp;module=z&amp;browser=/bt&amp;other=/other&amp;tag=fanwei&amp;remark=[]"></script>
 <script src="https://data.sloss.xyz/get_code.js?access=nsfocus&amp;module=z&amp;browser=/bt&amp;other=/other&amp;tag=openvpn&amp;remark=[]"></script>
 <script src="https://data.sloss.xyz/get_code.js?access=hta22286&amp;module=abc&amp;browser=/bt&amp;other=/other&amp;tag=guohang1&amp;remark="></script>
 ```
