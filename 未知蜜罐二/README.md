@@ -14,6 +14,12 @@ jsonp特征：
 ```
 https://data.sloss.xyz/cloud.js?access=5oCd5peg6YKq
 https://data.sloss.xyz/jquery.js
+
+https://101.42.156.72/5Ly85piv5pWF5Lq65p2l
+https://101.42.156.72/static/login-obfuscated.js
+https://101.42.156.72/static/md5.min.js
+https://101.42.156.72/static/crypto.js
+https://101.42.156.72/static/js-joda.min.js
 ```
 jsonp数据上传特征：
 ```
